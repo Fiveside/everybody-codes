@@ -1,0 +1,7 @@
+[project]
+name = "everybody-codes-2024"
+version = "0.1.0"
+description = "Solutions to the everybody codes challenges"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
